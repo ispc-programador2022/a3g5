@@ -1,4 +1,4 @@
-# 1) aplicación a3g5.py
+
 print("Bienvenidos/as a la App a3g5.py")
 
 print("\nLlamado a la función presentacion...")
